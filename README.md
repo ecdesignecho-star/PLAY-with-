@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/33138902/README.md)
+
 # Henry 老師｜城市街景速寫報名頁
 
 Mobile-first 靜態 Landing Page，以原生 HTML、CSS、JavaScript 製作，不需套件或編譯。網站包含課程介紹、價目、優惠碼、報名表、來源追蹤、班級容量提示與管理員統計面板。
